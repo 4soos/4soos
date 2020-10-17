@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently learning c,rust and all interesting things about CS.
+🔭 I’m currently learning c, rust and all interesting things about CS.
 
 
 <!--
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=ErickYoo&show_icons=true&theme=tokyonight)
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickYoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
