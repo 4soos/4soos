@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently learning c, rust and all interesting things about CS.
-
+- 🌱 I’m currently learning c, rust and all interesting things about CS.
+- 🔭 Working on automotive embedded software
 
 <!--
 **4soos/4soos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My's github stats](https://github-readme-stats.vercel.app/api?username=ErickYoo&show_icons=true&theme=tokyonight)
+![My's github stats](https://github-readme-stats.vercel.app/api?username=4soos&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickYoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4soos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
